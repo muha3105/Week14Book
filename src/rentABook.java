@@ -4,8 +4,8 @@ import java.util.Observable;
 
 public interface rentABook {
 
-    void booksToRent(ObservableList allBooks);
+    void booksToRent(ObservableList allBooks, String userName, String password );
 
-    public void addBookToRentListgit ();
+    public void addBookToRentList ();
 
 }
