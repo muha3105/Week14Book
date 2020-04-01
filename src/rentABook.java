@@ -17,7 +17,7 @@ public interface rentABook {
 
     public void setUserName(String username);
 
-    public void getUserName()
+    public void getUserName();
 
     public void setPassword(String password);
 
