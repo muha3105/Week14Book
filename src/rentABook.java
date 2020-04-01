@@ -6,5 +6,6 @@ public interface rentABook {
 
     void booksToRent(ObservableList allBooks);
 
+    public void addBookToRentListgit ();
 
 }
